@@ -1,5 +1,5 @@
 
-import { Star, Quote } from 'lucide-react';
+import { Star, Quote, Play } from 'lucide-react';
 
 const TestimonialsSection = () => {
   const testimonials = [
